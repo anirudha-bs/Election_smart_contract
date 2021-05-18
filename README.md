@@ -3,4 +3,4 @@
 Smart contract for election conduction built and tested using Remix.
 
 
-Dapp under development.
+Dapp is under development.
